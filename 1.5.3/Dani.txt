@@ -10,10 +10,10 @@
     Open_Settings_Button=Instellingen
 
 # Switching scenes buttons
-    Build_Rocket=Raket bouwen
-    Resume_Game=Spel hervatten
-    Return_To_Main_Menu=Hoofdmenu
-    Exit_To_Main_Menu=Terug naar hoofdmenu
+    Build_Rocket=Raket DANYAL
+    Resume_Game=Spel HERVA DANYAL
+    Return_To_Main_Menu=DANI MENU
+    Exit_To_Main_Menu=BACK TO DANI MENU!
 
 [Main Menu]
 # Image at: https://drive.google.com/file/d/1mEFf3W964ldXBekpbTc-Jj1XcSnBQz4k/view?usp=sharing
@@ -21,15 +21,15 @@
 
 # Tutorial
     Video_Tutorials_OpenButton=Videotutorials
-    Video_Orbit=Baantutorial
-    Video_Moon=Maantutorial
+    Video_Orbit=Danyal Assi
+    Video_Moon=SUBSCRIBE NOW
     Video_Dock=Dockingtutorial
 
 # Community
     Community_OpenButton=Community
-    Community_Youtube=YouTube
-    Community_Discord=Discord
-    Community_Reddit=Reddit
+    Community_Youtube=my yt channel isnt here
+    Community_Discord=Discord not my
+    Community_Reddit=Reddit NO
 
 # Roadmap
     Roadmap_OpenButton=Toekomstige updates
@@ -100,7 +100,7 @@
     Rate_Confirm=Beoordelen
 
 # Close menu
-    Close_Game=Spel sluiten?
+    Close_Game=GO PLAY
 
 # Startup Messages
     Early_Supporter_Message=Als vroege supporter heb je gratis toegang tot:
